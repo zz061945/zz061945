@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @zz061945
+- A dev, mainly on Android
